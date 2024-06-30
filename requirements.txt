@@ -1,0 +1,10 @@
+transformers
+nltk
+langdetect
+scikit-learn
+ttkbootstrap
+tensorflow
+FreqDist
+tkinter
+logging
+
