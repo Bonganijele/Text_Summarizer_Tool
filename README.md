@@ -16,7 +16,9 @@ Features
 
     Limitations
 
-    Token Limit: The application can only summarize text up to 1024 tokens. If the input text exceeds this limit, the transformer model will truncate the text, which might result in an incomplete summary.
+    Token Limit: The application can only summarize text up to 1024 tokens. If the input text exceeds this limit, 
+    the transformer model will truncate the text, which might result in an incomplete summary.
+    
     Input Size: The input text needs to have at least 50 words to be effectively summarized.
 
 
