@@ -25,23 +25,23 @@ Features
 
 Installation:
 
-$ git clone https://github.com/yourusername/text-summarizer-tool.git
-$ cd text-summarizer-tool
+     git clone https://github.com/yourusername/text-summarizer-tool.git
+     cd text-summarizer-tool
 
 Create a virtual environment (optional but recommended):
 
-$ python -m venv env
-$ source env/bin/activate   # On Windows, use `env\Scripts\activate`
+     python -m venv env
+     source env/bin/activate   # On Windows, use `env\Scripts\activate`
 
 Install the required packages:
 
-$ pip install -r requirements.txt
+     pip install -r requirements.txt
 
 USAGE:
 
 1 Run the application:
 
-$ python3 text_summary_tool.py
+     python3 text_summary_tool.py
 
 
 2 Load a text file: Use the 'Load file' button to open a text file containing the text you want to summarize.
@@ -62,7 +62,7 @@ Keyboard Shortcuts:
     Ctrl+K: View keyboard shortcuts
     Ctrl+F: Open the feedback dialog
 
-    Feedback and Support:
+ Feedback and Support:
 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the GitHub repository.
 
