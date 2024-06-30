@@ -56,11 +56,11 @@ USAGE:
 
 Keyboard Shortcuts:
 
-Ctrl+O: Open a text file
-Ctrl+S: Save the summary
-Ctrl+A: Show the 'About' window
-Ctrl+K: View keyboard shortcuts
-Ctrl+F: Open the feedback dialog  
+ Ctrl+O: Open a text file
+ Ctrl+S: Save the summary
+ Ctrl+A: Show the 'About' window
+ Ctrl+K: View keyboard shortcuts
+ Ctrl+F: Open the feedback dialog  
 
  Feedback and Support:
 
