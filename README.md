@@ -22,4 +22,3 @@ Features
     Input Size: The input text needs to have at least 50 words to be effectively summarized.
 
 
-
